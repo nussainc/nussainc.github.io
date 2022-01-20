@@ -3,7 +3,7 @@
     {
       "more_app"                  : "1",
       "select_main_ads"           : "ADMOB",
-      "select_backup_ads"         : "APPLOVIN-D",
+      "select_backup_ads"         : "FACEBOOK",
 
       "main_ads_banner"           : "ca-app-pub-1385874687607024/6445528850",
       "main_ads_intertitial"      : "ca-app-pub-1385874687607024/1335662930",
