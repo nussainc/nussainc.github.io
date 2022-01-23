@@ -1,0 +1,192 @@
+{
+  "More":
+  [
+    {
+      "id":1,
+      "title":"More Apps",
+      "image":"https://alfaruqapp.github.io/img/aall.png",
+      "link":"https://play.google.com/store/apps/developer?id=Fake+Call+App"
+    },
+    {
+      "id":2,
+      "title":"Harror Call",
+      "image":"https://alfaruqapp.github.io/img/huggywuggy.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.huggywuggy"
+    },
+    {
+      "id":10,
+      "title":"Ronaldo",
+      "image":"https://alfaruqapp.github.io/img/cristianoronaldo.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.cristianoronaldo"
+    },
+    {
+      "id":11,
+      "title":"Addison Rae",
+      "image":"https://alfaruqapp.github.io/img/addisonrae.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.addisonrae"
+    },
+    {
+      "id":12,
+      "title":"Bella Poarch",
+      "image":"https://alfaruqapp.github.io/img/bellapoarch.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.bellapoarch"
+    },
+    {
+      "id":13,
+      "title":"CharliD'Amelio",
+      "image":"https://alfaruqapp.github.io/img/charlidamelio.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.charlidamelio"
+    },
+    {
+      "id":14,
+      "title":"Domelipa",
+      "image":"https://alfaruqapp.github.io/img/domelipa.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.domelipa"
+    },
+    {
+      "id":15,
+      "title":"Giovanna Alparone",
+      "image":"https://alfaruqapp.github.io/img/giovannaalparone.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.giovannaalparone"
+    },
+    {
+      "id":16,
+      "title":"Karol G",
+      "image":"https://alfaruqapp.github.io/img/karolg.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.karolg"
+    },
+    {
+      "id":17,
+      "title":"Karol Sevilla",
+      "image":"https://alfaruqapp.github.io/img/karolsevilla.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.karolsevilla"
+    },
+    {
+      "id":18,
+      "title":"Khaby Lame",
+      "image":"https://alfaruqapp.github.io/img/khabylame.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.khabylame"
+    },
+    {
+      "id":19,
+      "title":"Kim Loaiza",
+      "image":"https://alfaruqapp.github.io/img/kimberlyloaiza.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.kimberlyloaiza"
+    },
+    {
+      "id":20,
+      "title":"Khabib",
+      "image":"https://alfaruqapp.github.io/img/khabibnurmagomedov.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.khabibnurmagomedov"
+    },
+    {
+      "id":21,
+      "title":"Kylie Jenner",
+      "image":"https://alfaruqapp.github.io/img/kyliejenner.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.kyliejenner"
+    },
+    {
+      "id":22,
+      "title":"Lady Diana",
+      "image":"https://alfaruqapp.github.io/img/ladydiana.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.ladydiana"
+    },
+    {
+      "id":23,
+      "title":"Mont Pantoja",
+      "image":"https://alfaruqapp.github.io/img/montpantoja.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.montpantoja"
+    },
+    {
+      "id":24,
+      "title":"Rod Contreras",
+      "image":"https://alfaruqapp.github.io/img/rodrigocontreras.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.rodrigocontreras"
+    },
+    {
+      "id":25,
+      "title":"J-Hope BTS",
+      "image":"https://alfaruqapp.github.io/img/btsjhope.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.btsjhope"
+    },
+    {
+      "id":26,
+      "title":"Jin BTS",
+      "image":"https://alfaruqapp.github.io/img/btsjin.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.btsjin"
+    },
+    {
+      "id":27,
+      "title":"Jimin BTS",
+      "image":"https://alfaruqapp.github.io/img/btsjimin.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.btsjimin"
+    },
+    {
+      "id":28,
+      "title":"Jungkook BTS",
+      "image":"https://alfaruqapp.github.io/img/btsjungkook.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.btsjungkook"
+    },
+    {
+      "id":29,
+      "title":"Taehyung BTS",
+      "image":"https://alfaruqapp.github.io/img/btstaehyung.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.btstaehyung"
+    },
+    {
+      "id":30,
+      "title":"Suga BTS",
+      "image":"https://alfaruqapp.github.io/img/btssuga.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.btssuga"
+    },
+    {
+      "id":31,
+      "title":"RM BTS",
+      "image":"https://alfaruqapp.github.io/img/btskimnamjoon.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.btskimnamjoon"
+    },
+    {
+      "id":32,
+      "title":"Jennie Blackpink",
+      "image":"https://alfaruqapp.github.io/img/blackpinkjennie.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.blackpinkjennie"
+    },
+    {
+      "id":33,
+      "title":"Rose Blackpink",
+      "image":"https://alfaruqapp.github.io/img/blackpinkrose.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.blackpinkrose"
+    },
+    {
+      "id":34,
+      "title":"Lisa Blackpink",
+      "image":"https://alfaruqapp.github.io/img/blackpinklisa.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.blackpinklisa"
+    },
+    {
+      "id":35,
+      "title":"Jisoo Blackpink",
+      "image":"https://alfaruqapp.github.io/img/blackpinkjisoo.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.blackpinkjisoo"
+    },
+    {
+      "id":36,
+      "title":"Jisoo Blackpink",
+      "image":"https://alfaruqapp.github.io/img/blackpinkjisoo.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.blackpinkjisoo"
+    },
+    {
+      "id":37,
+      "title":"Kim Seon-ho",
+      "image":"https://alfaruqapp.github.io/img/kimseonho.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.kimseonho"
+    },
+    {
+      "id":38,
+      "title":"Cha Eun-woo",
+      "image":"https://alfaruqapp.github.io/img/chaeunwoo.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.fakecallapp.chaeunwoo"
+    }
+  ]
+
+}
