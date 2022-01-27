@@ -18,7 +18,7 @@
       "initialize_sdk"            : "130abf83d",
       "initialize_sdk_backup_ads" : "130abf83d",
 
-      "interval_intertitial"      : 3,
+      "interval_intertitial"      : 5,
 
       "high_paying_keyword_1": "life insurance",
       "high_paying_keyword_2": "health insurance",
