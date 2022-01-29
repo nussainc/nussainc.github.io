@@ -1,24 +1,24 @@
 {
   "Ads": [
     {
-      "more_app"                  : "0",
+      "more_app"                  : "1",
       "select_main_ads"           : "ADMOB",
-      "select_backup_ads"         : "FACEBOOK",
+      "select_backup_ads"         : "APPLOVIN-M",
 
-      "main_ads_banner"           : "YOUR_PLACEMENT_ID",
-      "main_ads_intertitial"      : "YOUR_PLACEMENT_ID",
+      "main_ads_banner"           : "ca-app-pub-1385874687607024/9419218116",
+      "main_ads_intertitial"      : "ca-app-pub-1385874687607024/5690235408",
       "native_for_admob"          : "YOUR_PLACEMENT_ID",
 
-      "fan_ads_banner"            : "YOUR_PLACEMENT_ID",
-      "fan_ads_intertitial"       : "YOUR_PLACEMENT_ID",
+      "fan_ads_banner"            : "641450867087043_641450903753706",
+      "fan_ads_intertitial"       : "641450867087043_641450920420371",
 
-      "backup_ads_banner"         : "qwerty1234",
-      "backup_ads_intertitial"    : "qwerty1234",
+      "backup_ads_banner"         : "2e50d295f1e66d87",
+      "backup_ads_intertitial"    : "f644c67d7e19bf24",
       
       "initialize_sdk"            : "",
       "initialize_sdk_backup_ads" : "",
 
-      "interval_intertitial"      : 3,
+      "interval_intertitial"      : 4,
 
       "high_paying_keyword_1": "life insurance",
       "high_paying_keyword_2": "health insurance",
