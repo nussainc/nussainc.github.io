@@ -30,6 +30,48 @@
       "title":"JHope BTS",
       "image":"https://nussainc.github.io/img/btsjhopechat.webp",
       "link":"https://play.google.com/store/apps/details?id=com.nussainc.btsjhopechat"
+    },
+    {
+      "id":9,
+      "title":"RM BTS",
+      "image":"https://nussainc.github.io/img/btsnamjoonchat.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.nussainc.btsnamjoonchat"
+    },
+    {
+      "id":10,
+      "title":"Taehyung BTS",
+      "image":"https://nussainc.github.io/img/btsvtaehyungchat.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.nussainc.btsvtaehyungchat"
+    },
+    {
+      "id":11,
+      "title":"Jin BTS",
+      "image":"https://nussainc.github.io/img/btsjinchat.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.nussainc.btsjinchat"
+    },
+    {
+      "id":12,
+      "title":"Jennie Blackpink",
+      "image":"https://nussainc.github.io/img/blackpinkjenniechat.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.nussainc.blackpinkjenniechat"
+    },
+    {
+      "id":13,
+      "title":"Rose Blackpink",
+      "image":"https://nussainc.github.io/img/blackpinkrosechat.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.nussainc.blackpinkrosechat"
+    },
+    {
+      "id":14,
+      "title":"Jisoo Blackpink",
+      "image":"https://nussainc.github.io/img/blackpinkjisoochat.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.nussainc.blackpinkjisoochat"
+    },
+    {
+      "id":15,
+      "title":"Lisa Blackpink",
+      "image":"https://nussainc.github.io/img/blackpinklisachat.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.nussainc.blackpinklisachat"
     }
   ]
 
