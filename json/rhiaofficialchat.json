@@ -1,12 +1,12 @@
 {
   "Ads": [
     {
-      "more_app"                  : "1",
+      "more_app"                  : "0",
       "select_main_ads"           : "ADMOB",
       "select_backup_ads"         : "FACEBOOK",
 
-      "main_ads_banner"           : "ca-app-pub-1385874687607024/8803709240",
-      "main_ads_intertitial"      : "ca-app-pub-1385874687607024/6177545905",
+      "main_ads_banner"           : "YOUR_PLACEMENT_ID",
+      "main_ads_intertitial"      : "YOUR_PLACEMENT_ID",
       "native_for_admob"          : "YOUR_PLACEMENT_ID",
 
       "backup_ads_banner"         : "qwerty1234",

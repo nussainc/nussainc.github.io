@@ -5,8 +5,8 @@
       "select_main_ads"           : "ADMOB",
       "select_backup_ads"         : "FACEBOOK",
 
-      "main_ads_banner"           : "ca-app-pub-1385874687607024/8803709240",
-      "main_ads_intertitial"      : "ca-app-pub-1385874687607024/6177545905",
+      "main_ads_banner"           : "ca-app-pub-1385874687607024/8228994171",
+      "main_ads_intertitial"      : "ca-app-pub-1385874687607024/8037422486",
       "native_for_admob"          : "YOUR_PLACEMENT_ID",
 
       "backup_ads_banner"         : "qwerty1234",
