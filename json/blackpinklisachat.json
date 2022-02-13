@@ -9,16 +9,13 @@
       "main_ads_intertitial"      : "ca-app-pub-1385874687607024/1716875967",
       "native_for_admob"          : "YOUR_PLACEMENT_ID",
 
-      "fan_ads_banner"            : "360994435867655_360994479200984",
-      "fan_ads_intertitial"       : "360994435867655_360994482534317",
-
       "backup_ads_banner"         : "dd154ed429a09a21",
       "backup_ads_intertitial"    : "af07e357ddef80f3",
       
       "initialize_sdk"            : "",
       "initialize_sdk_backup_ads" : "",
 
-      "interval_intertitial"      : 4,
+      "interval_intertitial"      : 5,
 
       "high_paying_keyword_1": "life insurance",
       "high_paying_keyword_2": "health insurance",
