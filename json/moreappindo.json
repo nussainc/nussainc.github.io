@@ -99,13 +99,13 @@
     },
     {
       "id":19,
-      "title":"Dixie DAmelio",
+      "title":"Dixie D'Amelio",
       "image":"https://nussainc.github.io/img/dixiedameliochat.webp",
       "link":"https://play.google.com/store/apps/details?id=com.nussainc.dixiedameliochat"
     },
     {
       "id":20,
-      "title":"Charlie DAmelio",
+      "title":"Charlie D'Amelio",
       "image":"https://nussainc.github.io/img/charlidameliochat.webp",
       "link":"https://play.google.com/store/apps/details?id=com.nussainc.charlidameliochat"
     },
@@ -245,25 +245,25 @@
       "id":43,
       "title":"Zoe Abbas Jackson",
       "image":"https://nussainc.github.io/img/zoeabbasjacksonchat.webp",
-      "https://play.google.com/store/apps/details?id=com.nussainc.zoeabbasjacksonchat"
+      "link":"https://play.google.com/store/apps/details?id=com.nussainc.zoeabbasjacksonchat"
     },
     {
       "id":44,
       "title":"Cinta Brian",
       "image":"https://nussainc.github.io/img/cintabrianchat.webp",
-      "https://play.google.com/store/apps/details?id=com.nussainc.cintabrianchat"
+      "link":"https://play.google.com/store/apps/details?id=com.nussainc.cintabrianchat"
     },
     {
       "id":45,
       "title":"Chika",
       "image":"https://nussainc.github.io/img/chandrikachikachat.webp",
-      "https://play.google.com/store/apps/details?id=com.nussainc.chandrikachikachat"
+      "link":"https://play.google.com/store/apps/details?id=com.nussainc.chandrikachikachat"
     },
     {
       "id":46,
       "title":"Kuntilanak",
       "image":"https://nussainc.github.io/img/kuntilanak.webp",
-      "https://play.google.com/store/apps/details?id=com.nussainc.kuntilanak"
+      "link":"https://play.google.com/store/apps/details?id=com.nussainc.kuntilanak"
     }
   ]
 
