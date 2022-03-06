@@ -8,6 +8,12 @@
       "link":"https://play.google.com/store/apps/developer?id=Nussa+Inc"
     },
     {
+      "id":5,
+      "title":"Cha Eun-woo",
+      "image":"https://nussainc.github.io/img/chaeunwoochat.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.nussainc.chaeunwoochat"
+    },
+    {
       "id":6,
       "title":"Jimin BTS",
       "image":"https://nussainc.github.io/img/btsjiminchat.webp",
@@ -72,12 +78,6 @@
       "title":"Lisa Blackpink",
       "image":"https://nussainc.github.io/img/blackpinklisachat.webp",
       "link":"https://play.google.com/store/apps/details?id=com.nussainc.blackpinklisachat"
-    },
-    {
-      "id":116,
-      "title":"Cha Eun-woo",
-      "image":"https://nussainc.github.io/img/chaeunwoochat.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.nussainc.chaeunwoochat"
     },
     {
       "id":16,
