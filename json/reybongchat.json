@@ -5,8 +5,8 @@
       "select_main_ads"           : "ADMOB",
       "select_backup_ads"         : "APPLOVIN-D",
 
-      "main_ads_banner"           : "ca-app-pub-1385874687607024/1708132484",
-      "main_ads_intertitial"      : "ca-app-pub-1385874687607024/6564873343",
+      "main_ads_banner"           : "ca-app-pub-1385874687607024/9378776933",
+      "main_ads_intertitial"      : "ca-app-pub-1385874687607024/5060219981",
       "native_for_admob"          : "YOUR_PLACEMENT_ID",
 
       "backup_ads_banner"         : "qwerty1234",
