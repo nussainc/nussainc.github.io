@@ -183,7 +183,7 @@
     },
     {
       "id":33,
-      "title":"Khabib Nurmagomedov",
+      "title":"Khabib",
       "image":"https://nussainc.github.io/img/khabibnurmagomedovchat.webp",
       "link":"https://play.google.com/store/apps/details?id=com.nussainc.khabibnurmagomedovchat"
     },
@@ -195,15 +195,15 @@
     },
     {
       "id":35,
-      "title":"Ivana Alawi",
-      "image":"https://nussainc.github.io/img/ivanaalawichat.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.nussainc.ivanaalawichat"
+      "title":"Rod Contreras",
+      "image":"https://nussainc.github.io/img/elrodrigocontreraschat.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.nussainc.elrodrigocontreraschat"
     },
     {
       "id":36,
-      "title":"Ivana Alawi",
-      "image":"https://nussainc.github.io/img/ivanaalawichat.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.nussainc.ivanaalawichat"
+      "title":"Mont Pantoja",
+      "image":"https://nussainc.github.io/img/montpantojachat.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.nussainc.montpantojachat"
     },
     {
       "id":37,
@@ -243,7 +243,7 @@
     },
     {
       "id":43,
-      "title":"Zoe Abbas Jackson",
+      "title":"Zoe Abbas",
       "image":"https://nussainc.github.io/img/zoeabbasjacksonchat.webp",
       "link":"https://play.google.com/store/apps/details?id=com.nussainc.zoeabbasjacksonchat"
     },
@@ -264,6 +264,48 @@
       "title":"Kuntilanak",
       "image":"https://nussainc.github.io/img/kuntilanak.webp",
       "link":"https://play.google.com/store/apps/details?id=com.nussainc.kuntilanak"
+    },
+    {
+      "id":47,
+      "title":"Arya Saloka",
+      "image":"https://nussainc.github.io/img/aryasalokachat.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.nussainc.aryasalokachat"
+    },
+    {
+      "id":48,
+      "title":"Amanda Manopo",
+      "image":"https://nussainc.github.io/img/amandamanopochat.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.nussainc.amandamanopochat"
+    },
+    {
+      "id":49,
+      "title":"Rey Bong",
+      "image":"https://nussainc.github.io/img/reybongchat.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.nussainc.reybongchat"
+    },
+    {
+      "id":50,
+      "title":"Sandrinna",
+      "image":"https://nussainc.github.io/img/sandrinnamichellechat.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.nussainc.sandrinnamichellechat"
+    },
+    {
+      "id":51,
+      "title":"NAY",
+      "image":"https://nussainc.github.io/img/naisaalifiayurizachat.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.nussainc.naisaalifiayurizachat"
+    },
+    {
+      "id":52,
+      "title":"MiauAug",
+      "image":"https://nussainc.github.io/img/miawaugchat.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.nussainc.miawaugchat"
+    },
+    {
+      "id":53,
+      "title":"Ivana Alawi",
+      "image":"https://nussainc.github.io/img/ivanaalawichat.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.nussainc.ivanaalawichat"
     }
   ]
 
